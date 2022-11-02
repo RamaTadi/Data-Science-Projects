@@ -5,8 +5,8 @@ This project is based on the dataset available on the kaggle provided by [Kultur
 In the second part, we load the cleaned dataset and fit a linear regression fit with  number of views the video got as target variable and other columns as independent variables. We will check whether the assumptions of regression , `Linear Relationship between Dependent and Independent variable, Homoskedasticity, Normal Distributin of the resiudals, No Autocorrelation, No Multicollinearity` and try to improve the model . 
 
 # Code 
-You can find the code for the first part EDA [here]() and 
-You can find the code for the second part Linear Regression [here]()
+You can find the code for the first part EDA [here](https://github.com/RamaTadi/Data-Science-Projects/blob/main/Youtube%20Analysis%20and%20Modelling/%20eda-on-youtube-channels.ipynb) and 
+You can find the code for the second part Linear Regression [here](https://github.com/RamaTadi/Data-Science-Projects/blob/main/Youtube%20Analysis%20and%20Modelling/linear-regression-assumptions.ipynb)
 ***
 ## Setup
 ---
