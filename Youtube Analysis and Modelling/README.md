@@ -7,11 +7,11 @@ In the second part, we load the cleaned dataset and fit a linear regression fit 
 # Code 
 You can find the code for the first part EDA [here](https://github.com/RamaTadi/Data-Science-Projects/blob/main/Youtube%20Analysis%20and%20Modelling/%20eda-on-youtube-channels.ipynb) and 
 You can find the code for the second part Linear Regression [here](https://github.com/RamaTadi/Data-Science-Projects/blob/main/Youtube%20Analysis%20and%20Modelling/linear-regression-assumptions.ipynb)
-***
+
 ## Setup
----
+
 ### Installation 
----
+
 The project is done online on kaggle notebook. 
 To to this one needs
 
@@ -24,3 +24,6 @@ To to this one needs
     * Seaborn 
     * Sklearn 
     * Statsmodel
+
+### Data 
+The data used for this project can be downloaded from the kaggle [here](https://www.kaggle.com/datasets/kathir1k/youtube-influencers-data) and the cleaned dataset is available [here]()
