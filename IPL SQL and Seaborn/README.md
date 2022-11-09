@@ -5,6 +5,10 @@ I used the ***sqlite3*** library of python to connect to the database and ***pan
 The Database Diagram is given below.
 ![](https://i.imgur.com/327NVKH.png)
 
+File overview:
+
+* `ipl-sql-and-seaborn.ipynb` - a Jupyter notebook that contains the code to the SQL queries and visualizations on the IPL sqlite database.
+
 ## Setup
 
 ### Installation 
