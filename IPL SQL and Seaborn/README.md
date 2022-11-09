@@ -5,3 +5,13 @@ We will use the ***sqlite3*** library of python to connect to the database and u
 The Database Diagram is given below.
 ![](https://i.imgur.com/327NVKH.png)
 
+# Local Setup 
+To do this project one need to install
+* Jupyter Notebook
+* Python 3.7.8+
+* Python Packages
+   *. Pandas 
+   *. Numpy
+   *. Sqlite3
+   *. Matplotlib
+   *. Seaborn
