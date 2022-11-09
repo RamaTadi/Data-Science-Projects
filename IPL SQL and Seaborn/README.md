@@ -10,8 +10,8 @@ To do this project one need to install
 * Jupyter Notebook
 * Python 3.7.8+
 * Python Packages
-   *. Pandas 
-   *. Numpy
-   *. Sqlite3
-   *. Matplotlib
-   *. Seaborn
+   - Pandas 
+   - Numpy
+   - Sqlite3
+   - Matplotlib
+   - Seaborn
