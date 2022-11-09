@@ -9,6 +9,9 @@ File overview:
 
 * `ipl-sql-and-seaborn.ipynb` - a Jupyter notebook that contains the code to the SQL queries and visualizations on the IPL sqlite database.
 
+A sample visualization done in the project 
+![](https://github.com/RamaTadi/Data-Science-Projects/blob/main/IPL%20SQL%20and%20Seaborn/Visualizations/__results___38_0.png?raw=true)
+
 ## Setup
 
 ### Installation 
