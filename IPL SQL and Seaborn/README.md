@@ -5,13 +5,22 @@ We will use the ***sqlite3*** library of python to connect to the database and u
 The Database Diagram is given below.
 ![](https://i.imgur.com/327NVKH.png)
 
-# Local Setup 
-To do this project one need to install
-* Jupyter Notebook
-* Python 3.7.8+
-* Python Packages
-   - Pandas 
-   - Numpy
-   - Sqlite3
-   - Matplotlib
-   - Seaborn
+## Setup
+
+### Installation 
+
+The project is done online on kaggle notebook. 
+To to this one needs
+
+* Kaggle Notebook or Jupyter Notebook
+* Python 3.7.12 + 
+* Python packages
+    * Pandas
+    * Numpy
+    * Matplotlib
+    * Seaborn 
+    * Sklearn 
+    * Statsmodel
+
+### Data 
+The data used for this project can be downloaded from the kaggle [here](https://www.kaggle.com/datasets/harsha547/ipldatabase) 
